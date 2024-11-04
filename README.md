@@ -95,6 +95,8 @@ graph TD
 - **1 x Spot LED RGB sur zone interactive**
 - **2 x Spots LED sur les impressions (pour un éclairage d'accentuation)**
 
+## Scenarimage
+![Palette](medias/dessin.png)
 
 
 ## Synoptique
