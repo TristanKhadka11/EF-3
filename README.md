@@ -4,10 +4,10 @@
 Une installation artistique interactive permettant aux visiteurs de créer des œuvres d'art sonores et visuelles en utilisant des couleurs et des sons.
 
 ## Idée
-“La Symphonie des Couleurs” est une installation artistique interactive qui permet aux visiteurs de créer des œuvres d'art sonores et visuelles en utilisant des couleurs et des sons. Les participants interagissent avec un écran tactile pour sélectionner des couleurs, qui déclenchent des sons spécifiques, créant une expérience multisensorielle. Un assistant numérique, représenté par une simple animation, guide les visiteurs tout au long de l'expérience et les encourage à exprimer leurs émotions à travers l'art.
+“La Symphonie des Couleurs” est une installation artistique interactive qui permet aux visiteurs de créer des œuvres d'art sonores et visuelles en utilisant des couleurs et des sons. Les participants interagissent avec un écran tactile pour sélectionner des couleurs, qui déclenchent des sons spécifiques, créant une expérience multisensorielle. Un assistant numérique, représenté par une simple animation, guide les visiteurs tout au long de l'expérience et les encourage à exprimer leurs émotions à travers l'art. À la fin de leur création, les utilisateurs peuvent appuyer sur un bouton "Play" pour écouter une pièce musicale finale qui suit le parcours des couleurs choisies.
 
 ## Concept
-L'installation utilise des capteurs de couleur et des haut-parleurs pour transformer les choix des visiteurs en une composition visuelle et sonore. En touchant l'écran, les participants choisissent une couleur, ce qui génère une note musicale associée. L'assistant numérique explique comment chaque couleur et son peuvent influencer les émotions humaines, établissant un lien entre l'art, la science et l'expérience personnelle.
+L'installation utilise des capteurs de couleur et des haut-parleurs pour transformer les choix des visiteurs en une composition visuelle et sonore. En touchant l'écran, les participants choisissent une couleur, ce qui génère une note musicale associée. L'assistant numérique explique comment chaque couleur et son peuvent influencer les émotions humaines, établissant un lien entre l'art, la science et l'expérience personnelle. En appuyant sur le bouton "Play", un lecteur musical défile de gauche à droite, intégrant toutes les couleurs sélectionnées pour former une pièce musicale finale.
 
 ## Objectifs
 - **Expérientiels :** Offrir une expérience immersive où les visiteurs peuvent s’exprimer librement à travers la couleur et le son.
@@ -29,12 +29,14 @@ graph TD
     
     F --> G[Visiteurs peuvent créer une œuvre visuelle avec couleurs et sons]
     G --> H[Partage de l'œuvre sur un écran collectif]
+    H --> I[Visiteurs appuient sur "Play" pour écouter la pièce musicale finale]
     
-    H --> I[Visiteurs réfléchissent à leurs émotions]
-    I --> J[Fin de l'Interaction]
-    J --> A
+    I --> J[Visiteurs réfléchissent à leurs émotions]
+    J --> K[Fin de l'Interaction]
+    K --> A
 
 ```
+
 
 ## Expérience Utilisateur
 
@@ -42,6 +44,7 @@ graph TD
 - Choisir différentes couleurs pour entendre des sons uniques.
 - Observer l’impact émotionnel de chaque choix à travers l’animation.
 - Créer une œuvre collective à partir des choix des visiteurs.
+- Appuyer sur un bouton "Play" pour écouter une pièce musicale finale intégrant toutes les couleurs sélectionnées.
 
 ## Ambiance
 
@@ -74,6 +77,7 @@ graph TD
 - **Projection :** Processing ou TouchDesigner pour l’animation.
 - **Audio :** Ableton Live pour le son.
 - **Animation :** Blender pour l'assistant numérique.
+
 
 
 
