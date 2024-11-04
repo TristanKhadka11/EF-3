@@ -60,8 +60,7 @@ graph TD
 - **Oeuvres :**
   - [Color Field Painting](https://www.moma.org/collection/works/78581?sov_referrer=art_term&art_term_slug=biomorphic)
   - [Sound Visualization](https://www.youtube.com/watch?v=JOltdbuXmM8)
-- **Films :**
-  - [Fantasia](https://www.youtube.com/watch?v=KwF4s6d4h7U)
+
 - **Technologie :**
   - [FL Studio Sequencer](https://youtube.com/shorts/eRNYiPyqgMc?si=44y5ZhrqbM6yoWc9)
 
@@ -84,7 +83,7 @@ graph TD
 - **Projecteur :** Epson EH-TW9400 (pour une qualité d'image optimale)
 
 ### Audio
-- **2 x Haut-parleurs Bluetooth (pour flexibilité et qualité sonore)**
+- **2 x Haut-parleurs (pour flexibilité et qualité sonore)**
 - **1 x Caisson de basses actif**
 - **1 x Amplificateur pour haut-parleurs passifs**
 - **1 x Lot de câbles audio (XLR et RCA)**
@@ -105,23 +104,10 @@ graph TD
 - **2 x Impressions (177 x 118 cm)**
 
 ## Branchement
-- **Derrière rideau**
-- **Sol :** Sous trampoline
-- **Sur trampoline**
-- **Câble Ethernet slim 50'**
-- **Pied de micro chromé**
-- **Interface tactile**
-- **Projecteur vidéo**
-- **Haut-parleur 1 (gauche)**
-- **Haut-parleur 2 (droit)**
-- **Mac Mini**
-- **Switch Ethernet POE**
-- **Amplificateur**
-- **LAN**
-- **Caisson de grave**
+
 
 ## Étude de Projection
-- **Remarque :** La lentille n'est pas centrée sur le projecteur. Toutes les positions se réfèrent au centre de la lentille et non au projecteur.
+
 - **Étude projection :** Epson EH-TW9400 sur écran 16' x 9'.
 
 ##Plantation
