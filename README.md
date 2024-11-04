@@ -111,7 +111,7 @@ graph TD
 
 ## Étude de Projection
 
-- **Étude projection :** Epson EH-TW9400 sur écran 16' x 9'.
+![Palette](medias/proj.png)
 
 ##Plantation
 
