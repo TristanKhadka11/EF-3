@@ -58,12 +58,12 @@ graph TD
 
 ## Références Artistiques
 - **Oeuvres :**
-  - [Color Field Painting](https://www.moma.org/learn/moma_learning/themes/color-field-painting)
-  - [Sound Visualization](https://youtu.be/4HbhjWx8L7s)
+  - [Color Field Painting](https://www.moma.org/collection/works/78581?sov_referrer=art_term&art_term_slug=biomorphic)
+  - [Sound Visualization](https://www.youtube.com/watch?v=JOltdbuXmM8)
 - **Films :**
   - [Fantasia](https://www.youtube.com/watch?v=KwF4s6d4h7U)
 - **Technologie :**
-  - [FL Studio Sequencer](https://www.youtube.com/watch?v=KQ4VnKx6K7E)
+  - [FL Studio Sequencer](https://youtube.com/shorts/eRNYiPyqgMc?si=44y5ZhrqbM6yoWc9)
 
 # Devis pour l'Installation Interactive : La Symphonie des Couleurs
 
