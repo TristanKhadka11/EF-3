@@ -45,7 +45,7 @@ graph TD
 - Choisir différentes couleurs pour entendre des sons uniques.
 - Observer l’impact émotionnel de chaque choix à travers l’animation.
 - Créer une œuvre collective à partir des choix des visiteurs.
-- Appuyer sur un bouton "Play" pour écouter une pièce musicale finale intégrant toutes les couleurs sélectionnées.
+- Appuyer sur un bouton "Play" pour jouer les couleurs dessinées comme un séquenceur, intégrant toutes les couleurs sélectionnées dans une séquence musicale harmonisée.
 
 ## Ambiance
 
@@ -62,6 +62,8 @@ graph TD
   - [Sound Visualization](https://youtu.be/4HbhjWx8L7s)
 - **Films :**
   - [Fantasia](https://www.youtube.com/watch?v=KwF4s6d4h7U)
+- **Technologie :**
+  - [FL Studio Sequencer](https://www.youtube.com/watch?v=KQ4VnKx6K7E)
 
 ## Technologies
 
@@ -78,10 +80,3 @@ graph TD
 - **Projection :** Processing ou TouchDesigner pour l’animation.
 - **Audio :** Ableton Live pour le son.
 - **Animation :** Blender pour l'assistant numérique.
-
-
-
-
-
-
-
