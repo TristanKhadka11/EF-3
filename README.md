@@ -3,6 +3,8 @@
 ## Description
 Une installation artistique interactive permettant aux visiteurs de créer des œuvres d'art sonores et visuelles en utilisant des couleurs et des sons.
 
+![Palette](medias/scene1.png)
+
 ## Idée
 “La Symphonie des Couleurs” est une installation artistique interactive qui permet aux visiteurs de créer des œuvres d'art sonores et visuelles en utilisant des couleurs et des sons. Les participants interagissent avec un écran tactile pour sélectionner des couleurs, qui déclenchent des sons spécifiques, créant une expérience multisensorielle. Un assistant numérique, représenté par une simple animation, guide les visiteurs tout au long de l'expérience et les encourage à exprimer leurs émotions à travers l'art. À la fin de leur création, les utilisateurs peuvent appuyer sur un bouton "Play" pour écouter une pièce musicale finale qui suit le parcours des couleurs choisies.
 
@@ -40,6 +42,8 @@ graph TD
 
 
 ## Expérience Utilisateur
+
+![Palette](medias/scene2.png)
 
 ### Possibilités d'Exploration :
 - Choisir différentes couleurs pour entendre des sons uniques.
