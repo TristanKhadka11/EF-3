@@ -20,6 +20,7 @@ Cette installation cherche à rendre l'art accessible à tous en permettant aux 
 ## Espace Interactif
 
 ```mermaid
+
 graph TD
     A[Mode veille sur l'écran interactif] --> B[Entrée dans la Salle]
     B --> C[Espace lumineux avec écran tactile]
