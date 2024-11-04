@@ -32,8 +32,9 @@ graph TD
     G --> H[Partage de l'œuvre sur un écran collectif]
     H --> I[Visiteurs appuient sur Play pour écouter la pièce musicale finale]
 
-    I --> K[Fin de l'Interaction]
-    J --> A
+    I --> J[Visiteurs réfléchissent à leurs émotions]
+    J --> K[Fin de l'Interaction]
+    K --> A
 
 ```
 
