@@ -65,7 +65,7 @@ graph TD
   - [FL Studio Sequencer](https://youtube.com/shorts/eRNYiPyqgMc?si=44y5ZhrqbM6yoWc9)
 
 - **Sons :**
-  - [ex](https://www.youtube.com/watch?v=iNz0q6t5uM0)
+  - [Marcel Dettmann - Outback](https://www.youtube.com/watch?v=iNz0q6t5uM0)
 
 # Devis 
 
