@@ -65,7 +65,7 @@ graph TD
 - **Technologie :**
   - [FL Studio Sequencer](https://youtube.com/shorts/eRNYiPyqgMc?si=44y5ZhrqbM6yoWc9)
 
-# Devis pour l'Installation Interactive : La Symphonie des Couleurs
+# Devis 
 
 ## Fournis par l'Artiste
 - **1 x Mac Mini M1 configuré**
