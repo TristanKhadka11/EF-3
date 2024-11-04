@@ -54,7 +54,7 @@ graph TD
 - **Son :** Échantillons sonores doux, mélodies inspirantes, et voix amicale de l'assistant.
 
 ### Palette de Couleurs
-![Palette](medias/palette.png)
+![Palette](medias/pal.png)
 
 ## Références Artistiques
 - **Oeuvres :**
