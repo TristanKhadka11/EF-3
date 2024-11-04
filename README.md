@@ -101,10 +101,7 @@ graph TD
 - Les cadres doivent être de niveau et à distance égale de l'écran, à la même hauteur.
 
 ## Synoptique
-- **1 x Installation interactive : La Symphonie des Couleurs**
-- **Projection vidéo :** Éléments interactifs intégrant couleurs et sons
-- **Stéréophonique**
-- **2 x Impressions (177 x 118 cm)**
+![Palette](medias/drawio.png)
 
 ## Branchement
 
