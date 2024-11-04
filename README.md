@@ -75,15 +75,11 @@ graph TD
 - **1 x Contrôleur MIDI pour audio**
 - **1 x Bras articulé pour écran**
 - **1 x Câble Ethernet slim de 50'**
-- **1 x Switch PoE**
 - **1 x Adaptateur HDMI vers VGA (pour connectivité)**
-- **2 x Impressions (177 x 118 cm)**
-
-## Fournis par le Mois Multi
 
 ### Vidéo
 - **Écran de projection :** 16’ x 9’
-- **Projecteur :** Epson EH-TW9400 (pour une qualité d'image optimale)
+- **Projecteur :** Optoma 4K400STx
 
 ### Audio
 - **2 x Haut-parleurs (pour flexibilité et qualité sonore)**
@@ -95,15 +91,16 @@ graph TD
 - **1 x Spot LED RGB sur zone interactive**
 - **2 x Spots LED sur les impressions (pour un éclairage d'accentuation)**
 
-## Accrochage
-### Impressions
-- Se référer aux spécifications d'accrochage.
-- Les cadres doivent être de niveau et à distance égale de l'écran, à la même hauteur.
+
 
 ## Synoptique
-![Palette](medias/drawio.png)
+1 x Installation interactive
+Projection vidéo
+Stéréophonique
 
 ## Branchement
+
+![Palette](medias/drawio.png)
 
 
 ## Étude de Projection
@@ -111,6 +108,8 @@ graph TD
 ![Palette](medias/proj.png)
 
 ##Plantation
+
+
 
 
 ### Logiciels
