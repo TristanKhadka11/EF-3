@@ -111,9 +111,9 @@ graph TD
 
 ![Palette](medias/proj.png)
 
-##Plantation
+## Plantation
 
-
+![Palette](medias/plan.png)
 
 
 ### Logiciels
