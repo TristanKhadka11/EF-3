@@ -31,10 +31,9 @@ graph TD
     F --> G[Visiteurs peuvent créer une œuvre visuelle avec couleurs et sons]
     G --> H[Partage de l'œuvre sur un écran collectif]
     H --> I[Visiteurs appuient sur Play pour écouter la pièce musicale finale]
-    
-    I --> J[Visiteurs réfléchissent à leurs émotions]
-    J --> K[Fin de l'Interaction]
-    K --> A
+
+    I --> K[Fin de l'Interaction]
+    J --> A
 
 ```
 
