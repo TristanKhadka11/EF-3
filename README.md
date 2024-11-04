@@ -94,9 +94,9 @@ graph TD
 
 
 ## Synoptique
-1 x Installation interactive
-Projection vidéo
-Stéréophonique
+- **1 x Installation interactive**
+- **Projection vidéo**
+- **Stéréophonique**
 
 ## Branchement
 
