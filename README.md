@@ -65,16 +65,67 @@ graph TD
 - **Technologie :**
   - [FL Studio Sequencer](https://www.youtube.com/watch?v=KQ4VnKx6K7E)
 
-## Technologies
+# Devis pour l'Installation Interactive : La Symphonie des Couleurs
 
-### Support Média
-- **Audio :** Panneau de contrôle tactile, 1 haut-parleur à haute fidélité.
-- **Vidéo :** Écran interactif projetant les œuvres créées.
-- **Lumières :** LEDs programmables pour créer une ambiance dynamique.
+## Fournis par l'Artiste
+- **1 x Mac Mini M1 configuré**
+- **1 x Interface tactile (écran 32" pour interactivité)**
+- **1 x Contrôleur MIDI pour audio**
+- **1 x Bras articulé pour écran**
+- **1 x Câble Ethernet slim de 50'**
+- **1 x Switch PoE**
+- **1 x Adaptateur HDMI vers VGA (pour connectivité)**
+- **2 x Impressions (177 x 118 cm)**
 
-### Matériel
-- **Technologies interactives :** Écran tactile, haut-parleur, et câbles pour la connectivité.
-- **Plateformes et outils :** Une table ou un support pour l'écran et le haut-parleur.
+## Fournis par le Mois Multi
+
+### Vidéo
+- **Écran de projection :** 16’ x 9’
+- **Projecteur :** Epson EH-TW9400 (pour une qualité d'image optimale)
+
+### Audio
+- **2 x Haut-parleurs Bluetooth (pour flexibilité et qualité sonore)**
+- **1 x Caisson de basses actif**
+- **1 x Amplificateur pour haut-parleurs passifs**
+- **1 x Lot de câbles audio (XLR et RCA)**
+
+### Éclairage
+- **1 x Spot LED RGB sur zone interactive**
+- **2 x Spots LED sur les impressions (pour un éclairage d'accentuation)**
+
+## Accrochage
+### Impressions
+- Se référer aux spécifications d'accrochage.
+- Les cadres doivent être de niveau et à distance égale de l'écran, à la même hauteur.
+
+## Synoptique
+- **1 x Installation interactive : La Symphonie des Couleurs**
+- **Projection vidéo :** Éléments interactifs intégrant couleurs et sons
+- **Stéréophonique**
+- **2 x Impressions (177 x 118 cm)**
+
+## Branchement
+- **Derrière rideau**
+- **Sol :** Sous trampoline
+- **Sur trampoline**
+- **Câble Ethernet slim 50'**
+- **Pied de micro chromé**
+- **Interface tactile**
+- **Projecteur vidéo**
+- **Haut-parleur 1 (gauche)**
+- **Haut-parleur 2 (droit)**
+- **Mac Mini**
+- **Switch Ethernet POE**
+- **Amplificateur**
+- **LAN**
+- **Caisson de grave**
+
+## Étude de Projection
+- **Remarque :** La lentille n'est pas centrée sur le projecteur. Toutes les positions se réfèrent au centre de la lentille et non au projecteur.
+- **Étude projection :** Epson EH-TW9400 sur écran 16' x 9'.
+
+##Plantation
+
 
 ### Logiciels
 - **Projection :** Processing ou TouchDesigner pour l’animation.
